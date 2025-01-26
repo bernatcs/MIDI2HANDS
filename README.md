@@ -1,6 +1,6 @@
 # MIDI2HANDS
 
-![Logo](MIDI2HANDS.png)
+<img src="MIDI2HANDS.png" alt="Logo" width="200" />
 
 **MIDI2HANDS** is a Python application that uses machine learning to separate left and right hand notes in MIDI files. With custom models, you can process your own MIDI files to isolate the right and left hand parts of a performance.
 

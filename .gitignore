@@ -35,4 +35,4 @@ __pycache__/
 
 # Project specific
 MIDI2HANDS.spec
-models/
+# models/
