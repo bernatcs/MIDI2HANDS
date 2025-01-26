@@ -1,0 +1,38 @@
+# Build and distribution directories
+build/
+dist/
+*.egg
+*.egg-info
+.eggs/
+
+# Virtual environment
+venv/
+env/
+.env/
+.venv/
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.pyo
+*.pyd
+
+# Binary files
+*.so
+*.dylib
+
+# IDE settings
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment files
+.env
+.DS_Store
+
+# Project specific
+MIDI2HANDS.spec
+models/
