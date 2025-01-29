@@ -65,3 +65,7 @@ After the processing is completed, you can open the .midi file. You will find ch
 ## How to Train a Custom Model
 
 Go to this link a follow the instructions: [Google Colab](https://colab.research.google.com/drive/1fwKNPdfAtdn9GAy4U58LrE_mK9aaYFe8?usp=sharing)
+
+## Other
+
+[Link to video presentation](https://youtube.com/shorts/hO7-spDzVUQ?feature=share)
